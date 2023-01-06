@@ -27,6 +27,6 @@ My dream?  Create my own company. Unfortunately, I still don't have the luxury o
 
 Check my [[Public/Habits and Goals\|Habits and Goals]] if you want to learn more about me.  
 
-If you want to have your own digital garden, have a look to some [Resources]() I collected
+If you want to have your own digital garden, have a look to some [[Public/Resources\|Resources]] I collected
 
 You can find me at [Twitter](https://twitter.com/jleivaizq) and [LinkedIn](https://www.linkedin.com/in/jleivaizq/).  I'm pretty boring anyways.

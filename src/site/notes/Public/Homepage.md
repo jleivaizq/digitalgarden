@@ -5,7 +5,7 @@
 
 # Hi there 👋
 
-Welcome to my digital garden 🏡
+Welcome to my digital garden 🌱
 
 I have been reflecting about the best way to share the tiny and humble things I work on my free time and did not get to anything interesting.  Snooping around, I learned about digital garden and decided to give it a try. 
 

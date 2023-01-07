@@ -11,7 +11,7 @@ I have been reflecting about the best way to share the tiny and humble things I 
 
 ## About me 🙋
 
-Overall, I love spending time with family. Having dinner together and ending up slept while I hug my son in our couch over a movie is my idea of a great Friday night. 
+Overall, ==I love spending time with family==. Having dinner together and ending up slept while I hug my son in our couch over a movie is my idea of a great Friday night. 
  
 Alone, I enjoy running, reading and meditating early in the morning, if possible during sunrise; that is my best reason to wake up. Apart from that, I enjoy practicing Aikido, after 10 years, bb 2nd dan, I stopped because of the hustle. Now coming back...
 
